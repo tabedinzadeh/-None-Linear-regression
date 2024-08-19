@@ -1,0 +1,11 @@
+In this project, we want to check what pattern the economic index or GPD of the country "Ghana"  
+
+follows during certain years.
+
+Economic index data is stored as "ghana.gpd.csv". And by drawing the gpd chart by year, we realize that 
+
+it follows the logistic pattern and we fit it with the logistic nonlinear regression.
+
+The code of this program is stored under the name 
+
+##"None Linear Regression.py ".
